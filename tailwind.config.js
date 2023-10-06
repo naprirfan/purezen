@@ -13,6 +13,7 @@ module.exports = {
     fontFamily: {
       sans: ['Helvetica Neue', 'sans-serif'],
       serif: ['Futura', 'serif'],
+      logo: ['TT Fors'],
     },
   },
   plugins: [],
