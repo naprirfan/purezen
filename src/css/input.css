@@ -3,10 +3,10 @@
 @tailwind utilities;
 
 @layer base {
-  h1 {
-    @apply text-2xl;
-  }
   h2 {
-    @apply text-xl;
+    @apply text-5xl font-display;
+  }
+  p {
+    @apply text-base font-body;
   }
 }

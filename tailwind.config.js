@@ -4,16 +4,15 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        green: '#AEE1CD',
+        green: '#5F9A8C',
         black: '#1F2020',
         gold: '#F5DDC5',
         blue: '#9BB5CE',
       }
     },
     fontFamily: {
-      sans: ['Helvetica Neue', 'sans-serif'],
-      serif: ['Futura', 'serif'],
-      logo: ['TT Fors'],
+      display: ['"Oleo Script Swash Caps"', 'cursive'],
+      body: ['"Merriweather Sans"', 'sans-serif'],
     },
   },
   plugins: [],
