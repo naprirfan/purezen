@@ -11,8 +11,8 @@ module.exports = {
       }
     },
     fontFamily: {
-      display: ['"Oleo Script Swash Caps"', 'cursive'],
-      body: ['"Merriweather Sans"', 'sans-serif'],
+      display: ['"Josefin Slab"', 'cursive'],
+      body: ['"Roboto Slab"', 'serif'],
     },
   },
   plugins: [],

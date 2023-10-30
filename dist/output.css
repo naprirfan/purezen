@@ -435,13 +435,13 @@ video {
 }
 
 h2 {
-  font-family: "Oleo Script Swash Caps", cursive;
+  font-family: "Josefin Slab", cursive;
   font-size: 3rem;
   line-height: 1;
 }
 
 p {
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: "Roboto Slab", serif;
   font-size: 1rem;
   line-height: 1.5rem;
 }
@@ -708,8 +708,8 @@ p {
   background-size: cover;
 }
 
-.bg-center {
-  background-position: center;
+.bg-\[60\%_50\%\] {
+  background-position: 60% 50%;
 }
 
 .px-3 {
@@ -748,6 +748,10 @@ p {
 
 .text-center {
   text-align: center;
+}
+
+.font-body {
+  font-family: "Roboto Slab", serif;
 }
 
 .text-sm {
