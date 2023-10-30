@@ -4,7 +4,7 @@
 
 @layer base {
   h2 {
-    @apply text-5xl font-display;
+    @apply text-3xl font-display;
   }
   p {
     @apply text-base font-body;
