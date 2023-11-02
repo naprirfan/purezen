@@ -11,6 +11,7 @@ module.exports = {
         blue: '#9BB5CE',
         gray: '#C6C6C7',
         lightGreen: '#DEE8DF',
+        borderTurquoise: '#D1E8E3',
       }
     },
     fontFamily: {
