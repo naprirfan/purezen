@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 @layer base {
-  h2 {
+  h1, h2 {
     @apply text-3xl font-display;
   }
   p {
